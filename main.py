@@ -77,7 +77,7 @@ def products_page():
         cols = st.columns(2)
         for col, img_path in zip(cols, image_paths[i:i+2]):
             with col:
-                image = Image.open(f"images\\{img_path}")
+                image = Image.open(f"images/{img_path}")
                 resized_image = image.resize((250, 250))
                 st.image(resized_image, use_column_width=True)
 
