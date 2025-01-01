@@ -34,6 +34,10 @@ def main():
             font-family: cursive;
             font-weight: bold;
         }
+        .p{
+            font-family: cursive;
+            font-weight: bold;
+        }
 
         .spaced-section {
             margin-bottom: 30px;
