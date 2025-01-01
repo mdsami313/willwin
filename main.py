@@ -123,7 +123,7 @@ def products_page():
             with col:
                 image = Image.open(f"images/{img_path}")
                 resized_image = image.resize((250, 250))
-                st.image(resized_image, use_column_width=True)
+                st.image(resized_image, use_container_width=True)
 
 def about_page():
     st.title("About Us")
