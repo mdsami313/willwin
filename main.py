@@ -38,6 +38,10 @@ def main():
             font-family: cursive;
             font-weight: bold;
         }
+        .e121c1cl2{
+            font-family: cursive;
+            font-weight: bold;
+        }
 
         .spaced-section {
             margin-bottom: 30px;
