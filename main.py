@@ -25,6 +25,15 @@ def main():
             font-family: cursive;
             font-weight: bold;
         }
+        .spaced-section{
+            font-family: cursive;
+            font-weight: bold;
+        }
+        
+        .stMarkdown{
+            font-family: cursive;
+            font-weight: bold;
+        }
 
         .spaced-section {
             margin-bottom: 30px;
