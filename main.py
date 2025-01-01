@@ -38,7 +38,7 @@ def main():
             font-family: cursive;
             font-weight: bold;
         }
-        .st-emotion-cache-1otqz59{
+        h4{
             font-family: cursive;
             font-weight: bold;
         }
